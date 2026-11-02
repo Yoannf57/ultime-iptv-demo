@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="https://yoannf57.github.io/ultime-iptv-demo/epg.xml"
+#EXTINF:-1 tvg-id="demo1.ultime" tvg-name="Démo 1" tvg-logo="https://yoannf57.github.io/ultime-iptv-demo/logos/demo1.png" group-title="Demo Channels",Démo 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="demo2.ultime" tvg-name="Démo 2" tvg-logo="https://yoannf57.github.io/ultime-iptv-demo/logos/demo2.png" group-title="Demo Channels",Démo 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="demo3.ultime" tvg-name="Démo 3" tvg-logo="https://yoannf57.github.io/ultime-iptv-demo/logos/demo3.png" group-title="Demo Channels",Démo 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="demo4.ultime" tvg-name="Démo 4" tvg-logo="https://yoannf57.github.io/ultime-iptv-demo/logos/demo4.png" group-title="Demo Channels",Démo 4
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-logo="https://video.blender.org/lazy-static/thumbnails/bf1f3fb5-b119-4f9f-9930-8e20e892b898.jpg" group-title="Blender Open Movies",Big Buck Bunny (2008)
+https://video.blender.org/object-storage/web_videos/bf1f3fb5-b119-4f9f-9930-8e20e892b898-720.mp4
+#EXTINF:-1 tvg-logo="https://video.blender.org/lazy-static/thumbnails/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5.jpg" group-title="Blender Open Movies",Elephants Dream (2006)
+https://video.blender.org/object-storage/web_videos/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5-720.mp4
+#EXTINF:-1 tvg-logo="https://video.blender.org/lazy-static/thumbnails/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40.jpg" group-title="Blender Open Movies",Sintel (2010)
+https://video.blender.org/object-storage/web_videos/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40-720.mp4
+#EXTINF:-1 tvg-logo="https://video.blender.org/lazy-static/thumbnails/8533ea43-4271-4a57-9694-e9d0b35e1aa1.jpg" group-title="Blender Open Movies",Tears of Steel (2012)
+https://video.blender.org/object-storage/web_videos/8533ea43-4271-4a57-9694-e9d0b35e1aa1-720.mp4
+#EXTINF:-1 tvg-logo="https://video.blender.org/lazy-static/thumbnails/f507dfdc-e73e-45a4-9778-d758cbe1ce96.jpg" group-title="Blender Open Movies",Cosmos Laundromat (2015)
+https://video.blender.org/object-storage/web_videos/f507dfdc-e73e-45a4-9778-d758cbe1ce96-720.mp4
+#EXTINF:-1 tvg-logo="https://video.blender.org/lazy-static/thumbnails/264ff760-803e-430e-8d81-15648e904183.jpg" group-title="Blender Open Movies",Agent 327: Operation Barbershop (2017)
+https://video.blender.org/object-storage/web_videos/264ff760-803e-430e-8d81-15648e904183-720.mp4
+#EXTINF:-1 tvg-logo="https://video.blender.org/lazy-static/thumbnails/23f3ef79-15dc-44c5-aa45-cf92e78a4509.jpg" group-title="Blender Series",Caminandes S01E01 Llama Drama
+https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4#/series/caminandes/s01e01
+#EXTINF:-1 tvg-logo="https://video.blender.org/lazy-static/thumbnails/23f3ef79-15dc-44c5-aa45-cf92e78a4509.jpg" group-title="Blender Series",Caminandes S01E02 Gran Dillama
+https://video.blender.org/object-storage/web_videos/fb70d459-48d2-4db5-adba-813c84f9200a-720.mp4#/series/caminandes/s01e02
+#EXTINF:-1 tvg-logo="https://video.blender.org/lazy-static/thumbnails/23f3ef79-15dc-44c5-aa45-cf92e78a4509.jpg" group-title="Blender Series",Caminandes S01E03 Llamigos
+https://video.blender.org/object-storage/web_videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-720.mp4#/series/caminandes/s01e03
