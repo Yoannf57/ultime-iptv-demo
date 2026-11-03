@@ -17,258 +17,6 @@
     <display-name>Démo 4</display-name>
     <icon src="https://yoannf57.github.io/ultime-iptv-demo/logos/demo4.png"/>
   </channel>
-  <programme start="20261101000000 +0000" stop="20261101003000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101003000 +0000" stop="20261101013000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101023000 +0000" stop="20261101033000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101040000 +0000" stop="20261101043000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101043000 +0000" stop="20261101053000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101053000 +0000" stop="20261101060000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101060000 +0000" stop="20261101063000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101063000 +0000" stop="20261101073000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101073000 +0000" stop="20261101080000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101080000 +0000" stop="20261101083000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101083000 +0000" stop="20261101093000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101093000 +0000" stop="20261101100000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101100000 +0000" stop="20261101103000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101103000 +0000" stop="20261101113000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101113000 +0000" stop="20261101120000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101120000 +0000" stop="20261101123000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101123000 +0000" stop="20261101133000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101133000 +0000" stop="20261101140000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101140000 +0000" stop="20261101143000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101143000 +0000" stop="20261101153000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101153000 +0000" stop="20261101160000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101160000 +0000" stop="20261101163000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101163000 +0000" stop="20261101173000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101173000 +0000" stop="20261101180000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101180000 +0000" stop="20261101183000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101183000 +0000" stop="20261101193000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101193000 +0000" stop="20261101200000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101200000 +0000" stop="20261101203000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101203000 +0000" stop="20261101213000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101213000 +0000" stop="20261101220000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101220000 +0000" stop="20261101223000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101223000 +0000" stop="20261101233000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101233000 +0000" stop="20261102000000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
   <programme start="20261102000000 +0000" stop="20261102003000 +0000" channel="demo1.ultime">
     <title lang="en">BipBop Test Pattern</title>
     <title lang="fr">Mire BipBop</title>
@@ -2285,226 +2033,254 @@
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101010000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110000000 +0000" stop="20261110003000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101013000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110003000 +0000" stop="20261110013000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101023000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110013000 +0000" stop="20261110020000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110020000 +0000" stop="20261110023000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110023000 +0000" stop="20261110033000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101040000 +0000" stop="20261101043000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110033000 +0000" stop="20261110040000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101043000 +0000" stop="20261101053000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110040000 +0000" stop="20261110043000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101053000 +0000" stop="20261101060000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110043000 +0000" stop="20261110053000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101060000 +0000" stop="20261101070000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110053000 +0000" stop="20261110060000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101070000 +0000" stop="20261101073000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110060000 +0000" stop="20261110063000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101073000 +0000" stop="20261101083000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110063000 +0000" stop="20261110073000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101083000 +0000" stop="20261101090000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110073000 +0000" stop="20261110080000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101090000 +0000" stop="20261101100000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110080000 +0000" stop="20261110083000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101100000 +0000" stop="20261101103000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110083000 +0000" stop="20261110093000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101103000 +0000" stop="20261101113000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110093000 +0000" stop="20261110100000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101113000 +0000" stop="20261101120000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110100000 +0000" stop="20261110103000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110103000 +0000" stop="20261110113000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101130000 +0000" stop="20261101133000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101133000 +0000" stop="20261101143000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101143000 +0000" stop="20261101150000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110123000 +0000" stop="20261110133000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101150000 +0000" stop="20261101160000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110133000 +0000" stop="20261110140000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101160000 +0000" stop="20261101163000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110140000 +0000" stop="20261110143000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101163000 +0000" stop="20261101173000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110143000 +0000" stop="20261110153000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101173000 +0000" stop="20261101180000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110153000 +0000" stop="20261110160000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101180000 +0000" stop="20261101190000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110160000 +0000" stop="20261110163000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101190000 +0000" stop="20261101193000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110163000 +0000" stop="20261110173000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101193000 +0000" stop="20261101203000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110173000 +0000" stop="20261110180000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101203000 +0000" stop="20261101210000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110180000 +0000" stop="20261110183000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101210000 +0000" stop="20261101220000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110183000 +0000" stop="20261110193000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101220000 +0000" stop="20261101223000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110193000 +0000" stop="20261110200000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101223000 +0000" stop="20261101233000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261110200000 +0000" stop="20261110203000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101233000 +0000" stop="20261102000000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261110203000 +0000" stop="20261110213000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110213000 +0000" stop="20261110220000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110220000 +0000" stop="20261110223000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110223000 +0000" stop="20261110233000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110233000 +0000" stop="20261111000000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
@@ -4301,257 +4077,229 @@
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101004500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101004500 +0000" stop="20261101013000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110010000 +0000" stop="20261110013000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110013000 +0000" stop="20261110023000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101020000 +0000" stop="20261101024500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110023000 +0000" stop="20261110030000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101024500 +0000" stop="20261101033000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110040000 +0000" stop="20261110043000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101040000 +0000" stop="20261101044500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110043000 +0000" stop="20261110053000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101044500 +0000" stop="20261101053000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110053000 +0000" stop="20261110060000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101053000 +0000" stop="20261101060000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101060000 +0000" stop="20261101064500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110070000 +0000" stop="20261110073000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101064500 +0000" stop="20261101073000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110073000 +0000" stop="20261110083000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101073000 +0000" stop="20261101080000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110083000 +0000" stop="20261110090000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101080000 +0000" stop="20261101084500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101084500 +0000" stop="20261101093000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110100000 +0000" stop="20261110103000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101093000 +0000" stop="20261101100000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110103000 +0000" stop="20261110113000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101100000 +0000" stop="20261101104500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101104500 +0000" stop="20261101113000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101113000 +0000" stop="20261101120000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110130000 +0000" stop="20261110133000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101120000 +0000" stop="20261101124500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110133000 +0000" stop="20261110143000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101124500 +0000" stop="20261101133000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110143000 +0000" stop="20261110150000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101133000 +0000" stop="20261101140000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101140000 +0000" stop="20261101144500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110160000 +0000" stop="20261110163000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101144500 +0000" stop="20261101153000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110163000 +0000" stop="20261110173000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101153000 +0000" stop="20261101160000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110173000 +0000" stop="20261110180000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101160000 +0000" stop="20261101164500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101164500 +0000" stop="20261101173000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110190000 +0000" stop="20261110193000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101173000 +0000" stop="20261101180000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110193000 +0000" stop="20261110203000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101180000 +0000" stop="20261101184500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110203000 +0000" stop="20261110210000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101184500 +0000" stop="20261101193000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101193000 +0000" stop="20261101200000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261110220000 +0000" stop="20261110223000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101200000 +0000" stop="20261101204500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261110223000 +0000" stop="20261110233000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261101204500 +0000" stop="20261101213000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261110233000 +0000" stop="20261111000000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261101213000 +0000" stop="20261101220000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261101220000 +0000" stop="20261101224500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261101224500 +0000" stop="20261101233000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261101233000 +0000" stop="20261102000000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
   <programme start="20261102000000 +0000" stop="20261102004500 +0000" channel="demo3.ultime">
     <title lang="en">Demo Evening</title>
@@ -6569,341 +6317,257 @@
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101003000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110000000 +0000" stop="20261110004500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101003000 +0000" stop="20261101010000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110004500 +0000" stop="20261110013000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101013000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110013000 +0000" stop="20261110020000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110020000 +0000" stop="20261110024500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110024500 +0000" stop="20261110033000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110033000 +0000" stop="20261110040000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101030000 +0000" stop="20261101033000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110040000 +0000" stop="20261110044500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110044500 +0000" stop="20261110053000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101040000 +0000" stop="20261101043000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110053000 +0000" stop="20261110060000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101043000 +0000" stop="20261101050000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110060000 +0000" stop="20261110064500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101050000 +0000" stop="20261101053000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110064500 +0000" stop="20261110073000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101053000 +0000" stop="20261101060000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110073000 +0000" stop="20261110080000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101060000 +0000" stop="20261101063000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110080000 +0000" stop="20261110084500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101063000 +0000" stop="20261101070000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110084500 +0000" stop="20261110093000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101070000 +0000" stop="20261101073000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110093000 +0000" stop="20261110100000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101073000 +0000" stop="20261101080000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110100000 +0000" stop="20261110104500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101080000 +0000" stop="20261101083000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110104500 +0000" stop="20261110113000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101083000 +0000" stop="20261101090000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101090000 +0000" stop="20261101093000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110120000 +0000" stop="20261110124500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101093000 +0000" stop="20261101100000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110124500 +0000" stop="20261110133000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101100000 +0000" stop="20261101103000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110133000 +0000" stop="20261110140000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101103000 +0000" stop="20261101110000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110140000 +0000" stop="20261110144500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101110000 +0000" stop="20261101113000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110144500 +0000" stop="20261110153000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101113000 +0000" stop="20261101120000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110153000 +0000" stop="20261110160000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101120000 +0000" stop="20261101123000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110160000 +0000" stop="20261110164500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101123000 +0000" stop="20261101130000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110164500 +0000" stop="20261110173000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101130000 +0000" stop="20261101133000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110173000 +0000" stop="20261110180000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101133000 +0000" stop="20261101140000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110180000 +0000" stop="20261110184500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101140000 +0000" stop="20261101143000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110184500 +0000" stop="20261110193000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101143000 +0000" stop="20261101150000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110193000 +0000" stop="20261110200000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101150000 +0000" stop="20261101153000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110200000 +0000" stop="20261110204500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101153000 +0000" stop="20261101160000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110204500 +0000" stop="20261110213000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101160000 +0000" stop="20261101163000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110213000 +0000" stop="20261110220000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101163000 +0000" stop="20261101170000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110220000 +0000" stop="20261110224500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101170000 +0000" stop="20261101173000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261110224500 +0000" stop="20261110233000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261101173000 +0000" stop="20261101180000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261110233000 +0000" stop="20261111000000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101180000 +0000" stop="20261101183000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101183000 +0000" stop="20261101190000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101190000 +0000" stop="20261101193000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101193000 +0000" stop="20261101200000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101200000 +0000" stop="20261101203000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101203000 +0000" stop="20261101210000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101210000 +0000" stop="20261101213000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101213000 +0000" stop="20261101220000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101220000 +0000" stop="20261101223000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101223000 +0000" stop="20261101230000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101230000 +0000" stop="20261101233000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261101233000 +0000" stop="20261102000000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261102000000 +0000" stop="20261102003000 +0000" channel="demo4.ultime">
     <title lang="en">Classic BipBop</title>
@@ -9587,6 +9251,342 @@
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20261109233000 +0000" stop="20261110000000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110000000 +0000" stop="20261110003000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110003000 +0000" stop="20261110010000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110010000 +0000" stop="20261110013000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110013000 +0000" stop="20261110020000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110020000 +0000" stop="20261110023000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110023000 +0000" stop="20261110030000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110030000 +0000" stop="20261110033000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110033000 +0000" stop="20261110040000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110040000 +0000" stop="20261110043000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110043000 +0000" stop="20261110050000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110050000 +0000" stop="20261110053000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110053000 +0000" stop="20261110060000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110060000 +0000" stop="20261110063000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110063000 +0000" stop="20261110070000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110073000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110073000 +0000" stop="20261110080000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110083000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110083000 +0000" stop="20261110090000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110093000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110093000 +0000" stop="20261110100000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110103000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110103000 +0000" stop="20261110110000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110113000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110123000 +0000" stop="20261110130000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110133000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110133000 +0000" stop="20261110140000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110143000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110143000 +0000" stop="20261110150000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110150000 +0000" stop="20261110153000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110153000 +0000" stop="20261110160000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110160000 +0000" stop="20261110163000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110163000 +0000" stop="20261110170000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110170000 +0000" stop="20261110173000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110173000 +0000" stop="20261110180000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110180000 +0000" stop="20261110183000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110183000 +0000" stop="20261110190000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110190000 +0000" stop="20261110193000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110193000 +0000" stop="20261110200000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110200000 +0000" stop="20261110203000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110203000 +0000" stop="20261110210000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110210000 +0000" stop="20261110213000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110213000 +0000" stop="20261110220000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110220000 +0000" stop="20261110223000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110223000 +0000" stop="20261110230000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110230000 +0000" stop="20261110233000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261110233000 +0000" stop="20261111000000 +0000" channel="demo4.ultime">
     <title lang="en">Quality Ladder</title>
     <title lang="fr">L'échelle des qualités</title>
     <desc lang="en">Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream.</desc>
