@@ -36,8 +36,8 @@ CHAINES = [
     ]),
 ]
 
-DESC_EN = "Fictional programme for the Ultime IPTV demo playlist. Video: Apple HLS test stream."
-DESC_FR = "Programme fictif de la liste de démonstration d'Ultime IPTV. Vidéo : flux de test HLS d'Apple."
+DESC_EN = "Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream."
+DESC_FR = "Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple."
 
 
 def fmt(d: datetime) -> str:

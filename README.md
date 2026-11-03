@@ -1,6 +1,6 @@
-# Ultime IPTV — liste de démonstration
+# Ulti — liste de démonstration
 
-Liste M3U **publique et 100 % légale** servant à tester l'app Ultime IPTV (par exemple pour la vérification
+Liste M3U **publique et 100 % légale** servant à tester l'app Ulti (par exemple pour la vérification
 TestFlight d'Apple), sans abonnement IPTV.
 
 - Liste : https://yoannf57.github.io/ultime-iptv-demo/demo.m3u
