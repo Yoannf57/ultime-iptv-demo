@@ -9,21 +9,43 @@
 body{font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;max-width:42rem;margin:3rem auto;padding:0 1.25rem;line-height:1.55;color:#1d1d1f;background:#fff}
 @media (prefers-color-scheme:dark){body{color:#f5f5f7;background:#000}a{color:#5ac8fa}}
 h1{font-size:2rem;margin-bottom:.25rem}h2{font-size:1.2rem;margin-top:2.5rem}
-code{font-size:.95em;word-break:break-all}footer{margin-top:3rem;font-size:.85rem;opacity:.7}
+code{font-size:.95em;word-break:break-all}li{margin-bottom:.6rem}footer{margin-top:3rem;font-size:.85rem;opacity:.7}
 </style>
 </head>
 <body>
 <h1>Ulti</h1>
 <p><a href="./">Accueil / Home</a></p>
 
+<p>Mise à jour le 6 novembre 2026 / Updated November 6, 2026</p>
+
 <section lang="fr">
 <h2>Confidentialité</h2>
-<p>Ulti ne collecte aucune donnée personnelle. Les identifiants de votre abonnement IPTV sont stockés uniquement sur votre appareil (et dans votre trousseau iCloud si vous l'activez). L'application contacte votre fournisseur IPTV pour lire vos contenus, et The Movie Database (TMDB) pour afficher affiches et résumés ; aucune information sur vous ne leur est transmise par l'application. Aucune publicité, aucun suivi publicitaire, aucun outil de mesure d'audience. Pendant la version d'essai, les retours et rapports de plantage que vous choisissez d'envoyer par TestFlight sont transmis par Apple au développeur. Contact : <a href="mailto:yoann.febvre@gmail.com">yoann.febvre@gmail.com</a>.</p>
+<p>Ulti ne collecte aucune donnée personnelle : le développeur ne reçoit aucune information sur vous ni sur ce que vous regardez. Aucune publicité, aucun suivi publicitaire, aucun outil de mesure d'audience.</p>
+<ul>
+<li><strong>Votre abonnement IPTV</strong> : les identifiants sont stockés sur votre appareil, dans le trousseau (et dans votre trousseau iCloud si vous l'activez). L'application contacte uniquement votre fournisseur IPTV pour lire vos contenus.</li>
+<li><strong>Affiches et résumés</strong> : l'application interroge le relais d'Ulti (<code>api.ultitv.com</code>, hébergé par Cloudflare), qui consulte The Movie Database (TMDB). Seuls le titre recherché (ou le numéro TMDB de l'œuvre) et la langue de l'appareil sont transmis ; le relais ne garde aucun journal, et votre adresse IP ne sert qu'à limiter les abus, le temps de la requête. Les images sont chargées directement depuis <code>image.tmdb.org</code>.</li>
+<li><strong>Synchronisation iCloud</strong> (Premium) : profils, abonnements, Ma liste, reprises de lecture, rappels et réglages sont stockés dans la base <strong>privée</strong> iCloud de votre identifiant Apple, chiffrés. Le développeur n'y a pas accès.</li>
+<li><strong>Connexion de l'Apple TV</strong> : l'envoi de votre abonnement de l'iPhone vers l'Apple TV (QR code) passe par votre réseau local, chiffré, sans aucun serveur.</li>
+<li><strong>Achats</strong> : gérés par Apple. L'application ne reçoit que l'état de votre abonnement Premium, jamais vos informations de paiement.</li>
+<li><strong>Support</strong> : un e-mail n'est envoyé que si vous le décidez. Le journal joint est facultatif, visible avant l'envoi, et ne contient ni adresse de serveur, ni identifiant, ni mot de passe.</li>
+<li><strong>Versions bêta</strong> : si vous testez Ulti par TestFlight, les retours et rapports de plantage que vous choisissez d'envoyer sont transmis par Apple au développeur.</li>
+</ul>
+<p>Contact : <a href="mailto:contact@ultitv.com">contact@ultitv.com</a>.</p>
 </section>
 
 <section lang="en">
 <h2>Privacy</h2>
-<p>Ulti does not collect any personal data. Your IPTV subscription credentials are stored only on your device (and in your iCloud Keychain if you enable it). The app connects to your IPTV provider to play your content, and to The Movie Database (TMDB) to display posters and summaries; the app sends them no information about you. No advertising, no ad tracking, no analytics. During the beta, feedback and crash reports you choose to send through TestFlight are passed on to the developer by Apple. Contact: <a href="mailto:yoann.febvre@gmail.com">yoann.febvre@gmail.com</a>.</p>
+<p>Ulti does not collect any personal data: the developer receives no information about you or what you watch. No advertising, no ad tracking, no analytics.</p>
+<ul>
+<li><strong>Your IPTV subscription</strong>: credentials are stored on your device, in the keychain (and in your iCloud Keychain if you enable it). The app only connects to your IPTV provider to play your content.</li>
+<li><strong>Posters and summaries</strong>: the app queries Ulti's relay (<code>api.ultitv.com</code>, hosted by Cloudflare), which looks up The Movie Database (TMDB). Only the title being looked up (or the TMDB number of the movie or series) and the device language are sent; the relay keeps no logs, and your IP address is only used to limit abuse, for the duration of the request. Images are loaded directly from <code>image.tmdb.org</code>.</li>
+<li><strong>iCloud sync</strong> (Premium): profiles, subscriptions, My List, playback progress, reminders and settings are stored in the <strong>private</strong> iCloud database of your Apple Account, encrypted. The developer has no access to it.</li>
+<li><strong>Apple TV setup</strong>: sending your subscription from the iPhone to the Apple TV (QR code) goes over your local network, encrypted, with no server involved.</li>
+<li><strong>Purchases</strong>: handled by Apple. The app only receives the status of your Premium subscription, never your payment information.</li>
+<li><strong>Support</strong>: an email is only sent if you decide to. The attached log is optional, shown before sending, and contains no server address, username or password.</li>
+<li><strong>Beta versions</strong>: if you test Ulti through TestFlight, feedback and crash reports you choose to send are passed on to the developer by Apple.</li>
+</ul>
+<p>Contact: <a href="mailto:contact@ultitv.com">contact@ultitv.com</a>.</p>
 </section>
 </body>
 </html>
