@@ -17,258 +17,6 @@
     <display-name>Démo 4</display-name>
     <icon src="https://yoannf57.github.io/ultime-iptv-demo/logos/demo4.png"/>
   </channel>
-  <programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112003000 +0000" stop="20261112013000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112023000 +0000" stop="20261112033000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112043000 +0000" stop="20261112053000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112060000 +0000" stop="20261112063000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112063000 +0000" stop="20261112073000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112083000 +0000" stop="20261112093000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112103000 +0000" stop="20261112113000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112123000 +0000" stop="20261112133000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112143000 +0000" stop="20261112153000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112153000 +0000" stop="20261112160000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112163000 +0000" stop="20261112173000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112180000 +0000" stop="20261112183000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112183000 +0000" stop="20261112193000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112193000 +0000" stop="20261112200000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112200000 +0000" stop="20261112203000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112203000 +0000" stop="20261112213000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="demo1.ultime">
-    <title lang="en">BipBop Test Pattern</title>
-    <title lang="fr">Mire BipBop</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112223000 +0000" stop="20261112233000 +0000" channel="demo1.ultime">
-    <title lang="en">Demo Loop: Colours and Tones</title>
-    <title lang="fr">Boucle de démo : couleurs et sons</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="demo1.ultime">
-    <title lang="en">Streaming Test Card</title>
-    <title lang="fr">Mire de diffusion</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
   <programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="demo1.ultime">
     <title lang="en">BipBop Test Pattern</title>
     <title lang="fr">Mire BipBop</title>
@@ -2285,226 +2033,254 @@
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112010000 +0000" stop="20261112013000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121003000 +0000" stop="20261121013000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112013000 +0000" stop="20261112023000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121023000 +0000" stop="20261121033000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112043000 +0000" stop="20261112053000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121043000 +0000" stop="20261121053000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112070000 +0000" stop="20261112073000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112073000 +0000" stop="20261112083000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121063000 +0000" stop="20261121073000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112083000 +0000" stop="20261112090000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121083000 +0000" stop="20261121093000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112103000 +0000" stop="20261112113000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121103000 +0000" stop="20261121113000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112130000 +0000" stop="20261112133000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112133000 +0000" stop="20261112143000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121123000 +0000" stop="20261121133000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112163000 +0000" stop="20261112173000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121143000 +0000" stop="20261121153000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121163000 +0000" stop="20261121173000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112193000 +0000" stop="20261112203000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112203000 +0000" stop="20261112210000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121180000 +0000" stop="20261121183000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121183000 +0000" stop="20261121193000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112223000 +0000" stop="20261112233000 +0000" channel="demo2.ultime">
-    <title lang="en">Advanced Stream Demo</title>
-    <title lang="fr">Démo du flux avancé</title>
+  <programme start="20261121200000 +0000" stop="20261121203000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="demo2.ultime">
-    <title lang="en">Frame Rate Check</title>
-    <title lang="fr">Contrôle de la cadence</title>
+  <programme start="20261121203000 +0000" stop="20261121213000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121213000 +0000" stop="20261121220000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121220000 +0000" stop="20261121223000 +0000" channel="demo1.ultime">
+    <title lang="en">BipBop Test Pattern</title>
+    <title lang="fr">Mire BipBop</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121223000 +0000" stop="20261121233000 +0000" channel="demo1.ultime">
+    <title lang="en">Demo Loop: Colours and Tones</title>
+    <title lang="fr">Boucle de démo : couleurs et sons</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="demo1.ultime">
+    <title lang="en">Streaming Test Card</title>
+    <title lang="fr">Mire de diffusion</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
@@ -4301,257 +4077,229 @@
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112000000 +0000" stop="20261112004500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112004500 +0000" stop="20261112013000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121013000 +0000" stop="20261121023000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112020000 +0000" stop="20261112024500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112024500 +0000" stop="20261112033000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112040000 +0000" stop="20261112044500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121043000 +0000" stop="20261121053000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112044500 +0000" stop="20261112053000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121060000 +0000" stop="20261121070000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112060000 +0000" stop="20261112064500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112064500 +0000" stop="20261112073000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121073000 +0000" stop="20261121083000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112080000 +0000" stop="20261112084500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121090000 +0000" stop="20261121100000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112084500 +0000" stop="20261112093000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121103000 +0000" stop="20261121113000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112100000 +0000" stop="20261112104500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112104500 +0000" stop="20261112113000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112120000 +0000" stop="20261112124500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121133000 +0000" stop="20261121143000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112124500 +0000" stop="20261112133000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112140000 +0000" stop="20261112144500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112144500 +0000" stop="20261112153000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121163000 +0000" stop="20261121173000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112153000 +0000" stop="20261112160000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112160000 +0000" stop="20261112164500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112164500 +0000" stop="20261112173000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121190000 +0000" stop="20261121193000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121193000 +0000" stop="20261121203000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112180000 +0000" stop="20261112184500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121203000 +0000" stop="20261121210000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112184500 +0000" stop="20261112193000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121210000 +0000" stop="20261121220000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112193000 +0000" stop="20261112200000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
+  <programme start="20261121220000 +0000" stop="20261121223000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112200000 +0000" stop="20261112204500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
+  <programme start="20261121223000 +0000" stop="20261121233000 +0000" channel="demo2.ultime">
+    <title lang="en">Advanced Stream Demo</title>
+    <title lang="fr">Démo du flux avancé</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261112204500 +0000" stop="20261112213000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
+  <programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="demo2.ultime">
+    <title lang="en">Frame Rate Check</title>
+    <title lang="fr">Contrôle de la cadence</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261112220000 +0000" stop="20261112224500 +0000" channel="demo3.ultime">
-    <title lang="en">Demo Evening</title>
-    <title lang="fr">Soirée de démo</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261112224500 +0000" stop="20261112233000 +0000" channel="demo3.ultime">
-    <title lang="en">Test Pattern Magazine</title>
-    <title lang="fr">Le magazine de la mire</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="demo3.ultime">
-    <title lang="en">Late Demo</title>
-    <title lang="fr">Démo de fin de soirée</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Documentary</category>
   </programme>
   <programme start="20261113000000 +0000" stop="20261113004500 +0000" channel="demo3.ultime">
     <title lang="en">Demo Evening</title>
@@ -6569,341 +6317,257 @@
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121000000 +0000" stop="20261121004500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121004500 +0000" stop="20261121013000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112010000 +0000" stop="20261112013000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121020000 +0000" stop="20261121024500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121024500 +0000" stop="20261121033000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121040000 +0000" stop="20261121044500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121044500 +0000" stop="20261121053000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121060000 +0000" stop="20261121064500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121064500 +0000" stop="20261121073000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112060000 +0000" stop="20261112063000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121080000 +0000" stop="20261121084500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112063000 +0000" stop="20261112070000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121084500 +0000" stop="20261121093000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112070000 +0000" stop="20261112073000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112073000 +0000" stop="20261112080000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121100000 +0000" stop="20261121104500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112080000 +0000" stop="20261112083000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121104500 +0000" stop="20261121113000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112083000 +0000" stop="20261112090000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121120000 +0000" stop="20261121124500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121124500 +0000" stop="20261121133000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121140000 +0000" stop="20261121144500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121144500 +0000" stop="20261121153000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121160000 +0000" stop="20261121164500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121164500 +0000" stop="20261121173000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112130000 +0000" stop="20261112133000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121180000 +0000" stop="20261121184500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121184500 +0000" stop="20261121193000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112150000 +0000" stop="20261112153000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121200000 +0000" stop="20261121204500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112153000 +0000" stop="20261112160000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121204500 +0000" stop="20261121213000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121213000 +0000" stop="20261121220000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112163000 +0000" stop="20261112170000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121220000 +0000" stop="20261121224500 +0000" channel="demo3.ultime">
+    <title lang="en">Demo Evening</title>
+    <title lang="fr">Soirée de démo</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
+  <programme start="20261121224500 +0000" stop="20261121233000 +0000" channel="demo3.ultime">
+    <title lang="en">Test Pattern Magazine</title>
+    <title lang="fr">Le magazine de la mire</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
+  <programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="demo3.ultime">
+    <title lang="en">Late Demo</title>
+    <title lang="fr">Démo de fin de soirée</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
     <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112180000 +0000" stop="20261112183000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112183000 +0000" stop="20261112190000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112193000 +0000" stop="20261112200000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112200000 +0000" stop="20261112203000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112203000 +0000" stop="20261112210000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="demo4.ultime">
-    <title lang="en">Classic BipBop</title>
-    <title lang="fr">BipBop classique</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="demo4.ultime">
-    <title lang="en">Quality Ladder</title>
-    <title lang="fr">L'échelle des qualités</title>
-    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
-    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
-    <category lang="en">Documentary</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="demo4.ultime">
     <title lang="en">Classic BipBop</title>
@@ -9587,6 +9251,342 @@
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121123000 +0000" stop="20261121130000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121173000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121173000 +0000" stop="20261121180000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121180000 +0000" stop="20261121183000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121190000 +0000" stop="20261121193000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121200000 +0000" stop="20261121203000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121203000 +0000" stop="20261121210000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121210000 +0000" stop="20261121213000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121213000 +0000" stop="20261121220000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121220000 +0000" stop="20261121223000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121223000 +0000" stop="20261121230000 +0000" channel="demo4.ultime">
+    <title lang="en">Quality Ladder</title>
+    <title lang="fr">L'échelle des qualités</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="demo4.ultime">
+    <title lang="en">Classic BipBop</title>
+    <title lang="fr">BipBop classique</title>
+    <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
+    <desc lang="fr">Programme fictif de la liste de démonstration d'Ulti. Vidéo : flux de test HLS d'Apple.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="demo4.ultime">
     <title lang="en">Quality Ladder</title>
     <title lang="fr">L'échelle des qualités</title>
     <desc lang="en">Fictional programme for the Ulti demo playlist. Video: Apple HLS test stream.</desc>
